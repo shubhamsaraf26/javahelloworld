@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AC8D-846F
+
+ Directory of C:\Users\shubham\Desktop\java-project
+
+10/03/2018  12:54 AM    <DIR>          .
+10/03/2018  12:54 AM    <DIR>          ..
+10/02/2018  11:04 AM               148 hello.java
+10/03/2018  12:54 AM                 0 newfle.txt
+               2 File(s)            148 bytes
+               2 Dir(s)  27,893,055,488 bytes free
